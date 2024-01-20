@@ -1,0 +1,5 @@
+project1 
+
+virtual env=project1
+
+superuser=admin,password=admin
